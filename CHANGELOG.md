@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+0.4.0 - Add Pizza to Shopping Cart
+
 0.3.0 - Enter Delivery Address & Checkout
 
 0.2.0 - Customize Pizza
